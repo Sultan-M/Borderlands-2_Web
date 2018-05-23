@@ -1,0 +1,218 @@
+body {
+    margin: 0;
+}
+
+p {
+    color: black;
+    float: left;
+    left: 10%
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: bisque;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+}
+
+li {
+    float: left;
+
+
+}
+
+li a {
+    display: block;
+    color: chocolate;
+    text-align: center;
+    padding: 14px 70px;
+    text-decoration: none;
+    font-family: Aclonica;
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+li a:hover:not(.active) {
+    background-color: darkslategray;
+
+}
+
+.active {
+    background-color: bisque;
+    font-family: Aclonica;
+    font-size: 27px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.4px;
+
+}
+
+.Intro {
+    position: absolute;
+    float: left;
+    left: 10%;
+    top: 20%;
+    width: 70%;
+    color: black;
+
+}
+
+.Forklaring {
+    position: absolute;
+    float: left;
+    left: 10%;
+    top: 31%;
+    width: 70%;
+    color: black;
+
+}
+
+.Stycke1 {
+    position: absolute;
+    float: left;
+    left: 10%;
+    top: 31%;
+    width: 70%;
+    color: black;
+
+}
+
+.Stycke2 {
+    position: absolute;
+    float: left;
+    left: 10%;
+    top: 41%;
+    width: 70%;
+    color: black;
+
+}
+
+.Stycke3 {
+    position: absolute;
+    float: left;
+    left: 10%;
+    top: 51%;
+    width: 70%;
+    color: black;
+
+}
+
+.Stycke4 {
+    position: absolute;
+    float: left;
+    left: 10%;
+    top: 61%;
+    width: 70%;
+    color: black;
+
+}
+
+.Stycke5 {
+    position: absolute;
+    float: left;
+    left: 10%;
+    top: 71%;
+    width: 70%;
+    color: black;
+
+}
+
+.Stycke6 {
+    position: absolute;
+    float: left;
+    left: 10%;
+    top: 81%;
+    width: 70%;
+    color: black;
+
+}
+
+.Stycke7 {
+    position: absolute;
+    float: left;
+    left: 10%;
+    top: 91%;
+    width: 70%;
+    color: black;
+
+}
+
+.Grant {
+    border: solid 5px black;
+    position: absolute;
+    float: left;
+    left: 80%;
+    top: 20%;
+    color: black;
+}
+
+.Carlos {
+    border: solid 5px black;
+    position: absolute;
+    float: left;
+    left: 80%;
+    top: 20%;
+    color: black;
+}
+
+.Tom {
+    border: solid 5px black;
+    position: absolute;
+    float: left;
+    left: 80%;
+    top: 20%;
+    color: black;
+}
+
+.FlashH2 {
+    text-decoration-line: underline;
+    position: absolute;
+    float: left;
+    left: 10%;
+    top: 14%;
+    width: 70%;
+    color: black;
+    font-family: Aclonica;
+}
+
+.GrantH2 {
+    text-decoration-line: underline;
+    position: absolute;
+    float: left;
+    left: 10%;
+    top: 14%;
+    width: 70%;
+    color: black;
+    font-family: Aclonica;
+}
+
+.CarlosH2 {
+    text-decoration-line: underline;
+    position: absolute;
+    float: left;
+    left: 10%;
+    top: 14%;
+    width: 70%;
+    color: black;
+    font-family: Aclonica;
+}
+
+.TomH2 {
+    text-decoration-line: underline;
+    position: absolute;
+    float: left;
+    left: 10%;
+    top: 14%;
+    width: 70%;
+    color: black;
+    font-family: Aclonica;
+}
